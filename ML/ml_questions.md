@@ -1,5 +1,4 @@
 <h1 style="text-align: center;"> A. Chatbot for Queries</h1>
-*****
 
 ### Formal Statement
 
@@ -87,8 +86,6 @@ training as well as evaluation.
 <br>
 
 <h1 style="text-align: center;">B. Object Tagging in Images</h1>
-  
-  ******
   
 ### Formal Statement
 
