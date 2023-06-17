@@ -179,3 +179,16 @@ recognize complex patterns, textures, and shapes in images, aiding in
 accurate object tagging. Some libraries such as TensorFlow and PyTorch
 offer a wide range of pre-built CNN models such as ResNet and VGG which
 might help in tagging.
+
+
+## Getting Started: Setting Up an ML Environment
+There are 2 ways you can go about setting up an ML environment. One is locally, and one is on the cloud. Let's go over both:
+
+### (Recommended) Cloud Environment
+Our local machines often don't have GPUs (Graphics Processing Units). As a result, it becomes difficult to work with images on your local machines sometimes. Moreover, if you are not that seasoned with GitHub yet (but don't worry, you will be by the end of this Summer xD!), Cloud notebooks make collaboration smooth and seamless (just like sharing a Google Docs link). Even better, you can add comments and pictures in parallel, and document what you are doing in parallel very nicely, all the while breaking your code into separate chunks, and can test each individual function as well (No looking through 20 error messages now to find that missing semicolon now!). For the purpose of this task, we recommend using <a href="https://colab.research.google.com/">**Google Colab**</a>.  
+To see how you can set this up, have a look <a href="https://machinelearningmastery.com/google-colab-for-machine-learning-projects/">here</a> for a text tutorial, and <a href="https://youtube.com/playlist?list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH">at this amazing playlist</a> for a comprehensive video tutorial  
+
+### Bonus Task: Local Environment
+If setting up Colab felt like easy mode, and you feel like local development (aka, running <a href="https://jupyter.org/">Jupyter Notebooks</a> on your own computer, instead of Google's servers) is the better fit for you (because of a higher RAM, or if you're tired of uploading your datasets to Google Drive everytime you want to do a project), check out <a href="https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/">this</a> for a tutorial on how you can do it. 
+
+NOTE: For SOC'23, we would highly recommend you to use Google Colab
